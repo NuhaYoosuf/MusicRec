@@ -169,19 +169,3 @@ npm start
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-```
-
----
-
-Let me know if you'd like:
-- Auto-generated API docs using FastAPI’s `/docs`
-- A `docker-compose` file for production
-- A simple deployment guide (e.g., Vercel for frontend, Render or Railway for backend)  
-- Or Markdown-optimized image files for your GitHub repo
-
-Would you like this README as a downloadable `.md` file?
-```
